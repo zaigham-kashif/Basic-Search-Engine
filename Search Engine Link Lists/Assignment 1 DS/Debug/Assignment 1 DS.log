@@ -1,0 +1,14 @@
+﻿  Doc_Info.cpp
+  List.cpp
+  main.cpp
+  QueryInfo.cpp
+  Search_Engine.cpp
+  Term_Info.cpp
+  Generating Code...
+D:\MS Visual Studio Projects\Assignment 1-2 DS\Assignment 1 DS\Term_Info.h(50): warning C4715: 'Term_Info::Term_Info_Iterator::operator++': not all control paths return a value
+D:\MS Visual Studio Projects\Assignment 1-2 DS\Assignment 1 DS\Term_Info.h(48): warning C4172: returning address of local variable or temporary: old
+D:\MS Visual Studio Projects\Assignment 1-2 DS\Assignment 1 DS\Term_Info.h(50): warning C4715: 'Term_Info::Term_Info_Iterator::operator++': not all control paths return a value
+D:\MS Visual Studio Projects\Assignment 1-2 DS\Assignment 1 DS\Term_Info.h(48): warning C4172: returning address of local variable or temporary: old
+D:\MS Visual Studio Projects\Assignment 1-2 DS\Assignment 1 DS\List.h(35): warning C4715: 'List::list_iterator::operator++': not all control paths return a value
+D:\MS Visual Studio Projects\Assignment 1-2 DS\Assignment 1 DS\List.h(33): warning C4172: returning address of local variable or temporary: old
+  Assignment 1 DS.vcxproj -> D:\MS Visual Studio Projects\Assignment 1-2 DS\Debug\Assignment 1 DS.exe
